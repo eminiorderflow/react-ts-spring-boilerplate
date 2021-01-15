@@ -1,6 +1,9 @@
 # Compiled class file
 *.class
 
+# react dependencies
+/node_modules
+
 # Log file
 *.log
 
