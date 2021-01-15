@@ -4,6 +4,9 @@
 # react dependencies
 /node_modules
 
+# react production
+/build
+
 # Log file
 *.log
 
