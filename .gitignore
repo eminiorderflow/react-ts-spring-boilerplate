@@ -2,14 +2,18 @@
 *.class
 
 # dependencies
+frontend/node_modules
 /node_modules
+frontend/.pnp
 /.pnp
 .pnp.js
 
 # testing
+frontend/coverage
 /coverage
 
 # production
+frontend/build
 /build
 
 # misc
